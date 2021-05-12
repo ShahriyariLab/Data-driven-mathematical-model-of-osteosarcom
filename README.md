@@ -10,4 +10,4 @@ All output data sets are in 'Data' folder
 
 If using any parts of this code please cite
 
-Le,T.; Su, S.; Shahriyari L. Data driven mathematical model of osteosarcoma. Cancers2021. (Manuscript submitted for publishing)
+Le,T.; Su, S.; Shahriyari L. Data driven mathematical model of osteosarcoma. Cancers, 2021.
